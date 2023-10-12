@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data/private_income.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/anaconda3/lib/python3.11/site-packages/bokeh/sampledata/_data/us_marriages_divorces.csv">
           <value>
             <Attribute>
