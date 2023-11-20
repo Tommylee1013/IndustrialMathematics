@@ -10,7 +10,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Data/pop_ratio.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Data/private_income.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data/renewal.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Data/renewal_new.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
